@@ -1,6 +1,5 @@
 ## Good Evening👋
-- 🔭 I’m currently working on Machine Learning Projects
-- 🌱 I’m currently learning AI, Machine Learning and Deep Learning
+- 🔭 I’m currently working on Solaris, a personal central server AI
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/muhammad-jaddoua-0a097720a/) or m.jaddoua@gmail.com
 - ⚡ Fun fact: I like trying new and unorthodox methods.
 
