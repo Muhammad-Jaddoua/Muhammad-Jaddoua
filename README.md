@@ -9,8 +9,25 @@
 </p>
 
 <p align="center">
-  CS at <b>KFUPM</b> (graduating Dec 2026) · AI Developer at <b>DStation</b> · designing <b>Gradus</b>, a life-management app
+  Computer Science at <b>KFUPM</b> · graduating December 2026
 </p>
+
+## What I'm working on
+
+<table>
+  <tr>
+    <td align="center" width="110"><img alt="Work" src="https://img.shields.io/badge/WORK-1f6feb?style=flat-square"></td>
+    <td><b>AI Developer at DStation.</b> Building full-stack internal platforms and compliance tooling.</td>
+  </tr>
+  <tr>
+    <td align="center"><img alt="Capstone" src="https://img.shields.io/badge/CAPSTONE-8957e5?style=flat-square"></td>
+    <td><b>Senior project.</b> The ML engine and inference backend for a digital twin that diagnoses pump faults in real time.</td>
+  </tr>
+  <tr>
+    <td align="center"><img alt="Design phase" src="https://img.shields.io/badge/DESIGN_PHASE-d29922?style=flat-square"></td>
+    <td><b>Gradus.</b> A life-management app I'm designing before writing any code.</td>
+  </tr>
+</table>
 
 ## Featured work
 
@@ -36,8 +53,33 @@
 
 **🎮 Games in Unity:** [ECHO-HEART](https://github.com/Muhammad-Jaddoua/ECHO-HEART) · [Sparkle-Breakout](https://github.com/Muhammad-Jaddoua/Sparkle-Breakout) · [2D-Roguelike](https://github.com/Muhammad-Jaddoua/2D-Roguelike) ([play](https://play.unity.com/en/games/fdcce95e-fbdd-44e7-94e6-e2fb74bfa8d3/web)) · [Sprite-Flight](https://github.com/Muhammad-Jaddoua/Sprite-Flight)
 
-## Stack
+## Tech stack
 
-<p>
-  <img alt="Tech stack" src="https://skillicons.dev/icons?i=java,spring,py,fastapi,django,cs,dotnet,pytorch,postgres,kafka,docker,angular,react,unity">
-</p>
+<table>
+  <tr>
+    <td><b>Backend</b></td>
+    <td><img alt="Backend technologies" src="https://skillicons.dev/icons?i=java,spring,py,django,fastapi,flask,cs,dotnet,nodejs,express"></td>
+  </tr>
+  <tr>
+    <td><b>AI / ML</b></td>
+    <td>
+      <img alt="AI and ML technologies" src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn"><br>
+      <sub>XGBoost · LightGBM · ONNX · pandas · NumPy · RAG · Qdrant · Ollama</sub>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Frontend</b></td>
+    <td><img alt="Frontend technologies" src="https://skillicons.dev/icons?i=js,ts,angular,react,tailwind"></td>
+  </tr>
+  <tr>
+    <td><b>Data &amp; Infra</b></td>
+    <td>
+      <img alt="Data and infrastructure technologies" src="https://skillicons.dev/icons?i=postgres,mongodb,kafka,docker,git,linux,bash"><br>
+      <sub>SQL · Liquibase</sub>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Game dev</b></td>
+    <td><img alt="Game development technologies" src="https://skillicons.dev/icons?i=unity,cs"></td>
+  </tr>
+</table>
