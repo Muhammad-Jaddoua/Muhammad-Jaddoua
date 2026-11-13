@@ -51,7 +51,7 @@
   </tr>
 </table>
 
-**🎮 Games in Unity:** [ECHO-HEART](https://github.com/Muhammad-Jaddoua/ECHO-HEART) · [Sparkle-Breakout](https://github.com/Muhammad-Jaddoua/Sparkle-Breakout) · [2D-Roguelike](https://github.com/Muhammad-Jaddoua/2D-Roguelike) ([play](https://play.unity.com/en/games/fdcce95e-fbdd-44e7-94e6-e2fb74bfa8d3/web)) · [Sprite-Flight](https://github.com/Muhammad-Jaddoua/Sprite-Flight)
+**🎮 Games in Unity:** [ECHO-HEART](https://github.com/Muhammad-Jaddoua/ECHO-HEART) · [Sparkle-Breakout](https://github.com/Muhammad-Jaddoua/Sparkle-Breakout) · [2D-Roguelike](https://github.com/Muhammad-Jaddoua/2D-Roguelike) ([play](https://play.unity.com/en/games/fdcce95e-fbdd-44e7-94e6-e2fb74bfa8d3/web)) · [Sprite-Flight](https://github.com/Muhammad-Jaddoua/Sprite-Flight) ([play](https://play.unity.com/en/games/8d4b0741-8674-48bb-8dfe-07e3de2a197f/sprite-flight-scurvy-edition))
 
 ## Tech stack
 
