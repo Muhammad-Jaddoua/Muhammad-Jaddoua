@@ -55,6 +55,7 @@
 
 ## Tech stack
 
+<div align="center">
 <table>
   <tr>
     <td><b>Backend</b></td>
@@ -83,3 +84,4 @@
     <td><img alt="Game development technologies" src="https://skillicons.dev/icons?i=unity,cs"></td>
   </tr>
 </table>
+</div>
