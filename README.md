@@ -31,6 +31,17 @@ I build backend systems and applied AI: microservices, event-driven pipelines, a
 | **[Streamathon Landing Page](https://github.com/Jsploitt/streamthon-landing-page)** | Volunteer frontend work for a hackathon site that drew 400+ applicants from 14 universities. I built the GSAP animations and UI fixes. | Next.js · TypeScript · Tailwind · GSAP |
 | **[MNIST Classifier](https://github.com/Muhammad-Jaddoua/COE292-MNIST-Classifier)** | KNN vs SVM vs neural network on 70,000 handwritten digits with PCA, distance-metric analysis and cross-validation. The RBF-SVM won at **97.8%**. | Python · scikit-learn |
 
+## 🎮 Game development
+
+Outside backend and AI work, I build games in Unity (C#). These are course and personal projects.
+
+| Game | What it is |
+|---|---|
+| **[ECHO-HEART](https://github.com/Muhammad-Jaddoua/ECHO-HEART)** | A short third-person 3D adventure where you inhale enemies to copy their powers (Sword, Bow, Fire) and take down a boss. Built in a team of three; I'm working on combat and enemy and boss AI. *In development.* |
+| **[Sparkle-Breakout](https://github.com/Muhammad-Jaddoua/Sparkle-Breakout)** | A brick-breaker with added game feel: a jiggling jelly paddle, confetti bursts, camera shake and punchy audio. All feedback is layered on without changing the gameplay. |
+| **[2D-Roguelike](https://github.com/Muhammad-Jaddoua/2D-Roguelike)** ([play](https://play.unity.com/en/games/fdcce95e-fbdd-44e7-94e6-e2fb74bfa8d3/web)) | A turn-based roguelike with procedural levels, enemies and food as a resource, plus a board that grows with each level and JSON save/load. |
+| **[Sprite-Flight](https://github.com/Muhammad-Jaddoua/Sprite-Flight)** | A 2D arcade survival game: steer a pirate ship with the mouse and dodge spinning obstacles. Physics-based movement, UI Toolkit HUD and a WebGL build. |
+
 ## 💼 Experience
 
 - **AI Developer, DStation** (Jun 2026 – present): full-stack lead-referral portal with Microsoft SSO, a compliance planner prototype handed to the platform team, and research on open LLMs and local hosting.
@@ -61,6 +72,10 @@ I build backend systems and applied AI: microservices, event-driven pipelines, a
       <img alt="Data and infrastructure technologies" src="https://skillicons.dev/icons?i=postgres,mongodb,kafka,docker,git,linux,bash"><br>
       <sub>SQL · Liquibase · Qdrant</sub>
     </td>
+  </tr>
+  <tr>
+    <td><b>Game dev</b></td>
+    <td><img alt="Game development technologies" src="https://skillicons.dev/icons?i=unity,cs"></td>
   </tr>
 </table>
 
